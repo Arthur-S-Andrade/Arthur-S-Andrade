@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra contatos, clique nos botoes abaixo!
+### Pra contatos, clique nos botões abaixo!
  
 <div> 
   <a href = "mailto:andradesarthur2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
